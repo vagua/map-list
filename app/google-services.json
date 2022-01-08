@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997521872323",
+    "project_id": "finalroom-8ffd9",
+    "storage_bucket": "finalroom-8ffd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997521872323:android:63946ed02e15e331f51976",
+        "android_client_info": {
+          "package_name": "com.example.roomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997521872323-mkfqefip3eu88ifqlf4sun6tl472i6lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomapp",
+            "certificate_hash": "1e2a6efd2f7658bfc79aba17887f5a043482b925"
+          }
+        },
+        {
+          "client_id": "997521872323-ajsm7vsn63v4gvu49bsciqh2in7o4oga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxZ7qKVAV5Vqz143G9hcCBcIluYZtNVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997521872323-ajsm7vsn63v4gvu49bsciqh2in7o4oga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
